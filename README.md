@@ -1,4 +1,4 @@
-# other powerfull dos tooll
+# other powerfull dos tool
 usage:
 open this web https://darksel0.github.io/dos/ in your browser
 
